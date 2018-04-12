@@ -2,9 +2,6 @@
 title: Tasty Coffee
 timezone: America/Chicago
 collections:
-  posts:
-    title: Posts
-    output: true
   shops:
     title: Shops
     output: true
